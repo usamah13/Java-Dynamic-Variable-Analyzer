@@ -1,0 +1,359 @@
+[
+  {
+    "name": "a",
+    "alias": "alias_for_a",
+    "type": "double",
+    "history": [
+      {
+        "statement": "double a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "\"uninitialized\"",
+        "line": 18
+      },
+      {
+        "statement": "a \u003d 5;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "5.0",
+        "line": 20
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "6.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "7.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "8.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "9.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "10.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "11.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "12.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "13.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "14.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "15.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "16.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "17.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "18.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "19.0",
+        "line": 28
+      },
+      {
+        "statement": "a++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "20.0",
+        "line": 28
+      },
+      {
+        "statement": "a \u003d b + 1;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "3.3856595500394866",
+        "line": 33
+      },
+      {
+        "statement": "a \u003d b + 1;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "3.3856595500394866",
+        "line": 33
+      },
+      {
+        "statement": "a \u003d b + 1;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "3.3856595500394866",
+        "line": 33
+      },
+      {
+        "statement": "a \u003d b + 1;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "3.3856595500394866",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "name": "b",
+    "alias": "alias_for_b",
+    "type": "double",
+    "history": [
+      {
+        "statement": "double b;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "\"uninitialized\"",
+        "line": 19
+      },
+      {
+        "statement": "b \u003d 6;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "6.0",
+        "line": 21
+      },
+      {
+        "statement": "b++;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "7.0",
+        "line": 23
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "8.166666666666668",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "9.52777777777778",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "11.347318672839512",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "14.306849006996918",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "20.46859285090087",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "38.08757211781365",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "120.88859581913798",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "1124.1578922402234",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "902.49762042728",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "5.432027061772403",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "1.8441823749892324",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "2.0005933130711328",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "2.2235408912805176",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "2.602175839577136",
+        "line": 29
+      },
+      {
+        "statement": "b *\u003d b / a;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "3.3856595500394866",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "name": "i",
+    "alias": "alias_for_i",
+    "type": "int",
+    "history": [
+      {
+        "statement": "for (int i \u003d 0; i \u003c 10; i++) ",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "0",
+        "line": 32
+      },
+      {
+        "statement": "i +\u003d 2;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "2",
+        "line": 34
+      },
+      {
+        "statement": "for (int i \u003d 0; i \u003c 10; i++) ",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "3",
+        "line": 32
+      },
+      {
+        "statement": "i +\u003d 2;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "5",
+        "line": 34
+      },
+      {
+        "statement": "for (int i \u003d 0; i \u003c 10; i++) ",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "6",
+        "line": 32
+      },
+      {
+        "statement": "i +\u003d 2;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "8",
+        "line": 34
+      },
+      {
+        "statement": "for (int i \u003d 0; i \u003c 10; i++) ",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "9",
+        "line": 32
+      },
+      {
+        "statement": "i +\u003d 2;",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "11",
+        "line": 34
+      },
+      {
+        "statement": "for (int i \u003d 0; i \u003c 10; i++) ",
+        "enclosingClass": "SimpleTest",
+        "enclosingMethod": "public Double calc()",
+        "value": "0",
+        "line": 32
+      }
+    ]
+  }
+]
